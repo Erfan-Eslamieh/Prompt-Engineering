@@ -21,7 +21,7 @@ This repository contains three practical exercises focused on Prompt Engineering
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Prompt_engineering.git
+https://github.com/Erfan-Eslamieh/Prompt-Engineering.git
 ```
 2.Navigate to the project folder:
 
